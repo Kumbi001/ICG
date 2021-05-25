@@ -8,3 +8,26 @@ get email
 get all
 display customer information
 End
+Start
+print "Our drive is to better your beauty routine."
+Get businessDrive
+print "do you want to contact us?"
+Get response
+If (response == "Yes") 
+then display 'contact number and email address.'
+endif
+prompt for more info
+get more info
+display more info
+end
+Start
+print "how many make up brushes do we sell?"
+get brushValue
+print "how many customers do we get daily?"
+get customerValue
+print "do you want to view all transactions today?"
+get response
+If (response == "Y")
+then display Daily sale transactions
+endif
+end
