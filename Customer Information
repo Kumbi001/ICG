@@ -1,1 +1,10 @@
-
+Start
+prompt for customer age
+get age
+prompt for customer name
+get name
+prompt for customer email
+get email
+get all
+display customer information
+End
